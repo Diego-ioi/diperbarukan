@@ -1,4 +1,4 @@
-🛒 Sistem Kasir Sederhana
+###🛒 Sistem Kasir Sederhana
 
 📌 Deskripsi
 
